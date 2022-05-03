@@ -1,7 +1,8 @@
 # OOP244 NAA ZAA and NFF Notes
 
 ## Workshop Zero
-As a student in my class you are to start your semester by familiarizing yourself with github so we can do our help and collaboration on learning C++ 
+As a student in my class, you are to start your semester by familiarizing yourself with Github so you can share your daily work with me for advice and collaboration. This is done using what I call Workshop Zero; through a series of videos instructing you on how to set up your computer.<br/>
+The details of the workshop will be announced shortly. 
 
 ## Active Session 
 You are welcome to Fardad's classes as a guest by **using your real Seneca Name** (what is on your student card, otherwise you will be kicked out).
