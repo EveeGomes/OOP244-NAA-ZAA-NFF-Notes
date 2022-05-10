@@ -8,7 +8,7 @@ The details of the workshop will be announced shortly.
 The review session on IPC144/BTP100 will be held on Monday May 16th at 10:00AM. <br />
 This session will be open to all the students who needed to review the 144/100 concepts before starting 244/200 subjects.<br />
 
-Use a microphone, use your real name (the one on your student card) and click [HERE]() to join the session.
+Use a microphone (NO LISTEN ONLY), use your real name (the one on your student card) and click [HERE]() to join the session.
 
 ## Active Session 
 You are welcome to Fardad's classes as a guest by **using your real Seneca Name** (what is on your student card, otherwise you will be kicked out).
