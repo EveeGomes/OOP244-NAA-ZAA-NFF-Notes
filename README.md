@@ -1,13 +1,24 @@
 # OOP244 NAA ZAA and NFF Notes
 
-## Workshop Zero
-As a student in my class you are to start your semester by familiarizing yourself with github so we can do our help and collaboration on learning C++ 
-
 ## Active Session 
 You are welcome to Fardad's classes as a guest by **using your real Seneca Name** (what is on your student card, otherwise you will be kicked out).
 
 Click on the link below to join: (See [my schedule](#fardads-schedule) for lecture times)<br />
-[OOP244 the session by Fardad]()
+[OOP244 the session by Fardad](https://connect.rna2.blindsidenetworks.com/invite/to?c=BMMRvC_-M-bFuA3R4ekcX86fVVpQIxQZ5_2Tv3cf6YI&m=b7fe85c17961b55f19a6ca04cdcf3d2833643097&t=1652196588937&u=senecacollege)
+
+## Workshop Zero
+As a student in my class, you are to start your semester by familiarizing yourself with GitHub so you can share your daily work with me for advice/help, collaboration and monitoring your progress. 
+
+This is done using what I call Workshop Zero; through a series of videos instructing you on how to set up your computer to use GitHub effectively for collaboration.
+ 
+We will start this together in the first class (make sure you attend) but the detailed instructions of the workshop will be announced shortly.
+
+## 144/100 Review Session  for 244/200 Students
+The review session on IPC144/BTP100 will be held on Monday May 16th at 10:00AM. <br />
+This session will be open to all the students who needed to review the 144/100 concepts before starting 244/200 subjects.<br />
+
+Use a microphone (NO LISTEN ONLY), use your real name (the one on your student card) and click [HERE]() to join the session.
+
 ## Recordings of Previous Sessions
 ### NAA
 TBA
