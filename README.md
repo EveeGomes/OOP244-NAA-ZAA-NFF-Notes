@@ -21,11 +21,13 @@ Use a microphone (NO LISTEN ONLY), use your real name (the one on your student c
 
 ## Recordings of Previous Sessions
 ### NAA
-TBA
-### NBB
-TBA
+- [May 11, Welcome and Workshop Zero](https://recordings.rna2.blindsidenetworks.com/senecacollege/f1b4cc38392954b179ed80e861823cbdb192d39e-1652299915616/capture/)
+### NFF
+- [May 10, Welcome and Workshop Zero](https://recordings.rna2.blindsidenetworks.com/senecacollege/fa2e70d93458902e8c20d7c6ed16f63a6d8ad2d4-1652207698859/capture/)
+- [May 12 - OOP, Objects, Modular](https://recordings.rna2.blindsidenetworks.com/senecacollege/fa2e70d93458902e8c20d7c6ed16f63a6d8ad2d4-1652376592197/capture/)
 ### ZFF
-TBA
+- [May 10, Welcome and Workshop Zero](https://recordings.rna2.blindsidenetworks.com/senecacollege/0dabe5cbd5afd3dadba550ee8fe20e329616e8f6-1652196588984/capture/)
+- [May 12 - OOP, Objects, Modular](https://recordings.rna2.blindsidenetworks.com/senecacollege/0dabe5cbd5afd3dadba550ee8fe20e329616e8f6-1652363284601/capture/)
 
 ## IPC144 Review Session  for OOP244 Students
 TBA
