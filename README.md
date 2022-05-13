@@ -4,7 +4,7 @@
 You are welcome to Fardad's classes as a guest by **using your real Seneca Name** (what is on your student card, otherwise you will be kicked out).
 
 Click on the link below to join: (See [my schedule](#fardads-schedule) for lecture times)<br />
-[OOP244 the session by Fardad](https://connect.rna2.blindsidenetworks.com/invite/to?c=uokNYqAPgeweBwvrM_5bV-NA2e6jNkJOH8oSqbBjQsE&m=778bb400eed618e02ac928f8484d162182d9d221&t=1652376592161&u=senecacollege)
+[OOP244 the session by Fardad](https://connect.rna2.blindsidenetworks.com/invite/to?c=3WPmBh6JzgvjDnuMW4XYDFxt91V_qOV-r_DOXh-uFpU&m=7cb8c9be92fecf329e201f1e43c23cf2b6c097b6&t=1652446251655&u=senecacollege)
 
 ## Workshop Zero
 As a student in my class, you are to start your semester by familiarizing yourself with GitHub so you can share your daily work with me for advice/help, collaboration and monitoring your progress. 
