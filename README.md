@@ -13,6 +13,11 @@ This is done using what I call Workshop Zero; through a series of videos instruc
  
 We will start this together in the first class (make sure you attend) but the detailed instructions of the workshop will be announced shortly.
 
+Here are the Videos. The duedate for [Workshop Zero](https://www.youtube.com/playlist?list=PLxB4x6RkylouixUhNXf0MuwccLriA0DGC) is Friday May 20th.
+
+https://www.youtube.com/playlist?list=PLxB4x6RkylouixUhNXf0MuwccLriA0DGC
+
+
 ## 144/100 Review Session  for 244/200 Students
 The review session on IPC144/BTP100 will be held on Monday May 16th at 10:00AM. <br />
 This session will be open to all the students who needed to review the 144/100 concepts before starting 244/200 subjects.<br />
