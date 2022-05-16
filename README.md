@@ -18,11 +18,11 @@ Here are the Videos. The duedate for [Workshop Zero](https://www.youtube.com/pla
 https://www.youtube.com/playlist?list=PLxB4x6RkylouixUhNXf0MuwccLriA0DGC
 
 
-## 144/100 Review Session  for 244/200 Students  (lunch break)
-The review session on IPC144/BTP100 will continue at 12:55, we are on a lunch break! <br />
-This session will be open to all the students who needed to review the 144/100 concepts before starting 244/200 subjects.<br />
+## [144/100 Review Session for 244/200 Students](https://connect.rna2.blindsidenetworks.com/invite/to?c=VzxChSdM-QV2QGpa1uQ8LVNAI6jSMxNmodD59nYAwlI&m=f182c5fed6c3b14d3a8379e50632e1a4ffbbe5a0&t=1652719820061&u=senecacollege)
+The review session on IPC144/BTP100 is currently taking place <br />
+This session is open to all the students who need to review the 144/100 concepts before starting 244/200 subjects.<br />
 
-Use a microphone (NO LISTEN ONLY), use your real name (the one on your student card) and click [HERE]() to join the session.
+Use a microphone (NO LISTEN ONLY), use your real name (the one on your student card) and click [HERE](https://connect.rna2.blindsidenetworks.com/invite/to?c=VzxChSdM-QV2QGpa1uQ8LVNAI6jSMxNmodD59nYAwlI&m=f182c5fed6c3b14d3a8379e50632e1a4ffbbe5a0&t=1652719820061&u=senecacollege) to join the session.
 
 ## Recordings of Previous (NAA,NFF and ZAA) lecture Sessions
 I strongly suggest for students to review other section's recordings as well, if time permits...
