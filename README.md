@@ -18,8 +18,8 @@ Here are the Videos. The duedate for [Workshop Zero](https://www.youtube.com/pla
 https://www.youtube.com/playlist?list=PLxB4x6RkylouixUhNXf0MuwccLriA0DGC
 
 
-## 144/100 Review Session  for 244/200 Students
-The review session on IPC144/BTP100 will be will continue at 12:55, we are on a lunch break! <br />
+## 144/100 Review Session  for 244/200 Students  (lunch break)
+The review session on IPC144/BTP100 will continue at 12:55, we are on a lunch break! <br />
 This session will be open to all the students who needed to review the 144/100 concepts before starting 244/200 subjects.<br />
 
 Use a microphone (NO LISTEN ONLY), use your real name (the one on your student card) and click [HERE]() to join the session.
