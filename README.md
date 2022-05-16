@@ -24,9 +24,11 @@ This session will be open to all the students who needed to review the 144/100 c
 
 Use a microphone (NO LISTEN ONLY), use your real name (the one on your student card) and click [HERE](https://connect.rna2.blindsidenetworks.com/invite/to?c=P05Dba4rdI0BCFDBqxo6zUOPEvCer44ya77O5CT5uh4&m=f182c5fed6c3b14d3a8379e50632e1a4ffbbe5a0&t=1652708621024&u=senecacollege) to join the session.
 
-## Recordings of Previous Sessions
+## Recordings of Previous (NAA,NFF and ZAA) lecture Sessions
+I strongly suggest for students to review other section's recordings as well, if time permits...
 ### NAA
 - [May 11, Welcome and Workshop Zero](https://recordings.rna2.blindsidenetworks.com/senecacollege/f1b4cc38392954b179ed80e861823cbdb192d39e-1652299915616/capture/)
+- [May 13, OOP, Objects, Modular](https://recordings.rna2.blindsidenetworks.com/senecacollege/f1b4cc38392954b179ed80e861823cbdb192d39e-1652446251689/capture/)
 ### NFF
 - [May 10, Welcome and Workshop Zero](https://recordings.rna2.blindsidenetworks.com/senecacollege/fa2e70d93458902e8c20d7c6ed16f63a6d8ad2d4-1652207698859/capture/)
 - [May 12 - OOP, Objects, Modular](https://recordings.rna2.blindsidenetworks.com/senecacollege/fa2e70d93458902e8c20d7c6ed16f63a6d8ad2d4-1652376592197/capture/)
