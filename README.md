@@ -18,7 +18,7 @@ Here are the Videos. The duedate for [Workshop Zero](https://www.youtube.com/pla
 https://www.youtube.com/playlist?list=PLxB4x6RkylouixUhNXf0MuwccLriA0DGC
 
 
-## [144/100 Review Session for 244/200 Students](https://connect.rna2.blindsidenetworks.com/invite/to?c=VzxChSdM-QV2QGpa1uQ8LVNAI6jSMxNmodD59nYAwlI&m=f182c5fed6c3b14d3a8379e50632e1a4ffbbe5a0&t=1652719820061&u=senecacollege)
+## [144100 review session  for 244200 students](https://connect.rna2.blindsidenetworks.com/invite/to?c=VzxChSdM-QV2QGpa1uQ8LVNAI6jSMxNmodD59nYAwlI&m=f182c5fed6c3b14d3a8379e50632e1a4ffbbe5a0&t=1652719820061&u=senecacollege)
 The review session on IPC144/BTP100 is currently taking place <br />
 This session is open to all the students who need to review the 144/100 concepts before starting 244/200 subjects.<br />
 
