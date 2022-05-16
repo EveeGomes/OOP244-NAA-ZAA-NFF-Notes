@@ -1,28 +1,44 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <cstdio>
+#include "pointers.h"
+#include "pointers.h"
+#include "pointers.h"
+#include "pointers.h"
+#include "pointers.h"
+#include "pointers.h"
 using namespace std;
-int main() {
-   int nums[5][3] = {
-      {10, 20, 30},
-      {40, 50, 60},
-      {70, 80, 90},
-      {1, 2 ,3},
-      {4, 5, 6}
-   };
-   int* p = (int*)nums;
-   int i, j;
-   for (i = 0; i < 5; i++) {
-      for (j = 0; j < 3; j++) {
-         printf("[%d,%d]: %d ", i, j, nums[i][j]);
-      }
-      putchar('\n');
-   }
-   putchar('\n');
+/*
+1234<NEWLINE>
 
-   for (i = 0; i < 15; i++) {
-      printf("%d ", p[i]);
-   }
-   putchar('\n');
+*/
+void flushKeyboard() {
+   while (getchar() != '\n');
+}
+int readInt() {
+   int num;
+   char nextChar='X';
+   int done = 0;
+   do {
+      scanf("%d%c", &num, &nextChar);
+      if (nextChar != '\n') {
+         printf("Enter an int value only!\n> ");
+         flushKeyboard();// emptying the buffer
+      }
+      else {
+         done = 1;
+      }
+   } while (!done);
+   return num;
+}
+
+int main() {
+   int val;
+   printf("Enter an int: ");
+   val = readInt();
+   printf("The value is : %d\n", val);
+   printf("Enter another int: ");
+   val = readInt();
+   printf("The value is : %d\n", val);
    return 0;
 }
 
