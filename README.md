@@ -4,7 +4,7 @@
 You are welcome to Fardad's classes as a guest by **using your real Seneca Name** (what is on your student card, otherwise you will be kicked out).
 
 Click on the link below to join: (See [my schedule](#fardads-schedule) for lecture times)<br />
-[OOP244 the session by Fardad](https://connect.rna2.blindsidenetworks.com/invite/to?c=3WPmBh6JzgvjDnuMW4XYDFxt91V_qOV-r_DOXh-uFpU&m=7cb8c9be92fecf329e201f1e43c23cf2b6c097b6&t=1652446251655&u=senecacollege)
+[OOP244 the session by Fardad](https://connect.rna2.blindsidenetworks.com/invite/to?c=9ELMpasI0SB7J05bzb6E6Du-kMQ_3GMXcpJaSJzEkng&m=b7fe85c17961b55f19a6ca04cdcf3d2833643097&t=1652801643761&u=senecacollege)
 
 ## Workshop Zero
 As a student in my class, you are to start your semester by familiarizing yourself with GitHub so you can share your daily work with me for advice/help, collaboration and monitoring your progress. 
@@ -18,11 +18,14 @@ Here are the Videos. The duedate for [Workshop Zero](https://www.youtube.com/pla
 https://www.youtube.com/playlist?list=PLxB4x6RkylouixUhNXf0MuwccLriA0DGC
 
 
-## [144100 review session  for 244200 students](https://connect.rna2.blindsidenetworks.com/invite/to?c=VzxChSdM-QV2QGpa1uQ8LVNAI6jSMxNmodD59nYAwlI&m=f182c5fed6c3b14d3a8379e50632e1a4ffbbe5a0&t=1652719820061&u=senecacollege)
-The review session on IPC144/BTP100 is currently taking place <br />
-This session is open to all the students who need to review the 144/100 concepts before starting 244/200 subjects.<br />
+## 144100 review session  for 244200 students
+The review session on IPC144/BTP100 was held on monday may 13th at 10 AM<br />
+This session was open to all the students who needed to review the 144/100 concepts before starting 244/200 subjects.<br />
 
-Use a microphone (NO LISTEN ONLY), use your real name (the one on your student card) and click [HERE](https://connect.rna2.blindsidenetworks.com/invite/to?c=VzxChSdM-QV2QGpa1uQ8LVNAI6jSMxNmodD59nYAwlI&m=f182c5fed6c3b14d3a8379e50632e1a4ffbbe5a0&t=1652719820061&u=senecacollege) to join the session.
+### 144/100 Review Recrodings
+
+- [Part 1 (BBB)](https://recordings.rna2.blindsidenetworks.com/senecacollege/142746f4e9d27ffabde29661522c53351062c6d5-1652708621059/capture/)
+- [Part 2 (BBB)](https://recordings.rna2.blindsidenetworks.com/senecacollege/142746f4e9d27ffabde29661522c53351062c6d5-1652719820097/capture/)
 
 ## Recordings of Previous (NAA,NFF and ZAA) lecture Sessions
 I strongly suggest for students to review other section's recordings as well, if time permits...
