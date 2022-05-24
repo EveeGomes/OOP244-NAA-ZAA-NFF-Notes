@@ -45,10 +45,13 @@ I strongly suggest for students to review other section's recordings as well, if
 - [May 19  - Types references, overloading DMA](https://recordings.rna2.blindsidenetworks.com/senecacollege/0dabe5cbd5afd3dadba550ee8fe20e329616e8f6-1652967967286/capture/)
 
 ## IPC144 Review Session  for OOP244 Students
-TBA
-### Review Recording
+The review session on IPC144/BTP100 was held on monday may 13th at 10 AM
+This session was open to all the students who needed to review the 144/100 concepts before starting 244/200 subjects.
 
-TBA
+[144/100 Review Recrodings](https://github.com/Seneca-244200/OOP244-NAA-ZAA-NFF-Notes/blob/main/README.md#144100-review-recrodings)
+
+# Office
+[![Fardad Office](images/OfficeLogo.png)](https://teams.microsoft.com/l/channel/19%3aIKWDc3mg4DBZiX349JU6HiLjVaunOG5ASsf66aIpu5s1%40thread.tacv2/General?groupId=91c2461a-ea04-4362-8af7-0cc1b919c520&tenantId=eb34f74a-58e7-4a8b-9e59-433e4c412757)
 
 # Fardad's Schedule
 | Period | Start-Stop  | Mon | Tue | Wed | Thu | Fri |
