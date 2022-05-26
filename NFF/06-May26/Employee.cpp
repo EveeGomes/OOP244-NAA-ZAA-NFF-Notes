@@ -1,5 +1,6 @@
 #include <iostream>
 #include "Employee.h"
+#include "Utils.h"
 using namespace std;
 
 namespace sdds {
@@ -15,12 +16,8 @@ namespace sdds {
       // reads any char upto 40 chars, or \n whichever comes fist 
       // then it eats the \n and throws it away.
       cin.getline(m_name, 41, '\n');
-      cout << "Salay: ";
-      cin >> m_salary;
-      cin.ignore(1000, '\n');//ingore a 1000 chars or '\n' whichever comes first
-      cout << "Employee ID: ";
-      cin >> m_empId;
-      cin.ignore(1000, '\n');
+      m_salary = U.getDouble("Salary: ");
+      m_empId = U.getInt("Employee ID: ");
    }
 
 

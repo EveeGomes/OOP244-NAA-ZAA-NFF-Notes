@@ -12,6 +12,7 @@ namespace sdds {
       void setNoOfEmployees();
       void deleteEmployees();
    public:
+      void displayName();
       void startup();
       void startup(const char* name);
       void expand();  

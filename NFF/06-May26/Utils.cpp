@@ -11,7 +11,7 @@ namespace sdds {
       }
       return len;
    }
-   int getInt(const char* prompt = "");
+
    void Utils::strcpy(char* des, const char* src){
       int i;
       for (i = 0; src[i]; i++) {
@@ -20,7 +20,7 @@ namespace sdds {
       des[i] = 0; // turning the char array des in to a cString by null terminating it.
    }
 
-   int getInt(const char* prompt) {
+   int Utils::getInt(const char* prompt) {
       int value;
       if (prompt && prompt[0]) cout << prompt;
       cin >> value;
@@ -28,7 +28,7 @@ namespace sdds {
       return value;
    }
 
-   double getDouble(const char* prompt) {
+   double Utils::getDouble(const char* prompt) {
       double value;
       if (prompt && prompt[0]) cout << prompt;
       cin >> value;
