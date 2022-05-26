@@ -4,7 +4,7 @@
 You are welcome to Fardad's classes as a guest by **using your real Seneca Name** (what is on your student card, otherwise you will be kicked out).
 
 Click on the link below to join: (See [my schedule](#fardads-schedule) for lecture times)<br />
-[OOP244 the session by Fardad](https://connect.rna2.blindsidenetworks.com/invite/to?c=qqz8n0Q-IVxEBWPoSshE36CwfDkm58IbzNOvZPpoey4&m=7cb8c9be92fecf329e201f1e43c23cf2b6c097b6&t=1653509025258&u=senecacollege)
+[OOP244 the session by Fardad](https://connect.rna2.blindsidenetworks.com/invite/to?c=X8GTD-F9-HCd76Mfd2g9lU1ahaBxAA494pehWozIyz4&m=b7fe85c17961b55f19a6ca04cdcf3d2833643097&t=1653572448031&u=senecacollege)
 
 ## Workshop Zero
 As a student in my class, you are to start your semester by familiarizing yourself with GitHub so you can share your daily work with me for advice/help, collaboration and monitoring your progress. 
@@ -33,11 +33,14 @@ I strongly suggest for students to review other section's recordings as well, if
 - [May 11 - Welcome and Workshop Zero](https://recordings.rna2.blindsidenetworks.com/senecacollege/f1b4cc38392954b179ed80e861823cbdb192d39e-1652299915616/capture/)
 - [May 13 - OOP, Objects, Modular](https://recordings.rna2.blindsidenetworks.com/senecacollege/f1b4cc38392954b179ed80e861823cbdb192d39e-1652446251689/capture/)
 - [May 18 - OOP, Objects, Modular, types and overloading](https://recordings.rna2.blindsidenetworks.com/senecacollege/f1b4cc38392954b179ed80e861823cbdb192d39e-1652904147019/capture/)
+- [May 20 - Types References and overloading](https://recordings.rna2.blindsidenetworks.com/senecacollege/f1b4cc38392954b179ed80e861823cbdb192d39e-1653051000408/capture/)
+- [May 24 - DMA and Scopes](https://recordings.rna2.blindsidenetworks.com/senecacollege/0dabe5cbd5afd3dadba550ee8fe20e329616e8f6-1653406200614/capture/)
 ### NFF
 - [May 10, Welcome and Workshop Zero](https://recordings.rna2.blindsidenetworks.com/senecacollege/fa2e70d93458902e8c20d7c6ed16f63a6d8ad2d4-1652207698859/capture/)
 - [May 12 - OOP, Objects, Modular](https://recordings.rna2.blindsidenetworks.com/senecacollege/fa2e70d93458902e8c20d7c6ed16f63a6d8ad2d4-1652376592197/capture/)
 - [May 17 - OOP, Objects, Modular, types and overloading](https://recordings.rna2.blindsidenetworks.com/senecacollege/fa2e70d93458902e8c20d7c6ed16f63a6d8ad2d4-1652811401313/capture/)
 - [May 19 - Types, References, Overloading and DMA](https://recordings.rna2.blindsidenetworks.com/senecacollege/fa2e70d93458902e8c20d7c6ed16f63a6d8ad2d4-1652980520082/capture/)
+- [May 24 - DMA and scopes](https://recordings.rna2.blindsidenetworks.com/senecacollege/fa2e70d93458902e8c20d7c6ed16f63a6d8ad2d4-1653416406042/capture/)
 ### ZAA
 - [May 10, Welcome and Workshop Zero](https://recordings.rna2.blindsidenetworks.com/senecacollege/0dabe5cbd5afd3dadba550ee8fe20e329616e8f6-1652196588984/capture/)
 - [May 12 - OOP, Objects, Modular](https://recordings.rna2.blindsidenetworks.com/senecacollege/0dabe5cbd5afd3dadba550ee8fe20e329616e8f6-1652363284601/capture/)
@@ -70,4 +73,4 @@ This session was open to all the students who needed to review the 144/100 conce
 
 
 # Workshop Zero
-
+If you need help with your code you should have your computer setup and create a private GitHub repo and add me as a collaborator, [Follow the instructions of Workshop zero to get ready](https://www.youtube.com/watch?v=D6B0rXJYhTI&list=PLxB4x6RkylouixUhNXf0MuwccLriA0DGC&ab_channel=FardadSoleimanloo).
