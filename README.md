@@ -34,7 +34,7 @@ I strongly suggest for students to review other section's recordings as well, if
 - [May 13 - OOP, Objects, Modular](https://recordings.rna2.blindsidenetworks.com/senecacollege/f1b4cc38392954b179ed80e861823cbdb192d39e-1652446251689/capture/)
 - [May 18 - OOP, Objects, Modular, types and overloading](https://recordings.rna2.blindsidenetworks.com/senecacollege/f1b4cc38392954b179ed80e861823cbdb192d39e-1652904147019/capture/)
 - [May 20 - Types References and overloading](https://recordings.rna2.blindsidenetworks.com/senecacollege/f1b4cc38392954b179ed80e861823cbdb192d39e-1653051000408/capture/)
-- [May 24 - DMA and Scopes](https://recordings.rna2.blindsidenetworks.com/senecacollege/0dabe5cbd5afd3dadba550ee8fe20e329616e8f6-1653406200614/capture/)
+- [May 25 - DMA and Scopes](https://recordings.rna2.blindsidenetworks.com/senecacollege/0dabe5cbd5afd3dadba550ee8fe20e329616e8f6-1653406200614/capture/)
 ### NFF
 - [May 10, Welcome and Workshop Zero](https://recordings.rna2.blindsidenetworks.com/senecacollege/fa2e70d93458902e8c20d7c6ed16f63a6d8ad2d4-1652207698859/capture/)
 - [May 12 - OOP, Objects, Modular](https://recordings.rna2.blindsidenetworks.com/senecacollege/fa2e70d93458902e8c20d7c6ed16f63a6d8ad2d4-1652376592197/capture/)
@@ -46,6 +46,8 @@ I strongly suggest for students to review other section's recordings as well, if
 - [May 12 - OOP, Objects, Modular](https://recordings.rna2.blindsidenetworks.com/senecacollege/0dabe5cbd5afd3dadba550ee8fe20e329616e8f6-1652363284601/capture/)
 - [May 17 - OOP, Objects, Modular, types references and overloading](https://recordings.rna2.blindsidenetworks.com/senecacollege/0dabe5cbd5afd3dadba550ee8fe20e329616e8f6-1652801643799/capture/)
 - [May 19  - Types references, overloading DMA](https://recordings.rna2.blindsidenetworks.com/senecacollege/0dabe5cbd5afd3dadba550ee8fe20e329616e8f6-1652967967286/capture/)
+- [May 24 - DMA, scopes](https://recordings.rna2.blindsidenetworks.com/senecacollege/0dabe5cbd5afd3dadba550ee8fe20e329616e8f6-1653406200614/capture/)
+- [May 26 - member functions and privacy](https://recordings.rna2.blindsidenetworks.com/senecacollege/0dabe5cbd5afd3dadba550ee8fe20e329616e8f6-1653572448069/capture/)
 
 ## IPC144 Review Session  for OOP244 Students
 The review session on IPC144/BTP100 was held on monday may 13th at 10 AM
