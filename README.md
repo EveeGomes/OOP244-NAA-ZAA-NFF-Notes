@@ -73,4 +73,4 @@ This session was open to all the students who needed to review the 144/100 conce
 
 
 # Workshop Zero
-
+If you need help with your code you should have your computer setup and create a private GitHub repo and add me as a collaborator, [Follow the instructions of Workshop zero to get ready](https://www.youtube.com/watch?v=D6B0rXJYhTI&list=PLxB4x6RkylouixUhNXf0MuwccLriA0DGC&ab_channel=FardadSoleimanloo).
