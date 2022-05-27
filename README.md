@@ -41,6 +41,7 @@ I strongly suggest for students to review other section's recordings as well, if
 - [May 17 - OOP, Objects, Modular, types and overloading](https://recordings.rna2.blindsidenetworks.com/senecacollege/fa2e70d93458902e8c20d7c6ed16f63a6d8ad2d4-1652811401313/capture/)
 - [May 19 - Types, References, Overloading and DMA](https://recordings.rna2.blindsidenetworks.com/senecacollege/fa2e70d93458902e8c20d7c6ed16f63a6d8ad2d4-1652980520082/capture/)
 - [May 24 - DMA and scopes](https://recordings.rna2.blindsidenetworks.com/senecacollege/fa2e70d93458902e8c20d7c6ed16f63a6d8ad2d4-1653416406042/capture/)
+- [May 26 - Member functions and privacy](https://recordings.rna2.blindsidenetworks.com/senecacollege/fa2e70d93458902e8c20d7c6ed16f63a6d8ad2d4-1653586126080/capture/)
 ### ZAA
 - [May 10, Welcome and Workshop Zero](https://recordings.rna2.blindsidenetworks.com/senecacollege/0dabe5cbd5afd3dadba550ee8fe20e329616e8f6-1652196588984/capture/)
 - [May 12 - OOP, Objects, Modular](https://recordings.rna2.blindsidenetworks.com/senecacollege/0dabe5cbd5afd3dadba550ee8fe20e329616e8f6-1652363284601/capture/)
