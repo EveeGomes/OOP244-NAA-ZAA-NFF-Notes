@@ -4,7 +4,7 @@
 You are welcome to Fardad's classes as a guest by **using your real Seneca Name** (what is on your student card, otherwise you will be kicked out).
 
 Click on the link below to join: (See [my schedule](#fardads-schedule) for lecture times)<br />
-[OOP244 the session by Fardad](https://connect.rna2.blindsidenetworks.com/invite/to?c=Eb59fcGDXBQdEfQ0cMWIayzJ9FuXAWJfdAt0-M3rAuU&m=778bb400eed618e02ac928f8484d162182d9d221&t=1654190699890&u=senecacollege)
+[OOP244 the session by Fardad](https://connect.rna2.blindsidenetworks.com/invite/to?c=COvO61qMxiWikiuWB9KOg2JR7HF1pxYWEynri8s11tQ&m=7cb8c9be92fecf329e201f1e43c23cf2b6c097b6&t=1654258972740&u=senecacollege)
 
 ## Workshop Zero
 As a student in my class, you are to start your semester by familiarizing yourself with GitHub so you can share your daily work with me for advice/help, collaboration and monitoring your progress. 
@@ -37,6 +37,7 @@ I strongly suggest for students to review other section's recordings as well, if
 - [May 25 - DMA and Scopes](https://recordings.rna2.blindsidenetworks.com/senecacollege/f1b4cc38392954b179ed80e861823cbdb192d39e-1653509025294/capture/)
 - [May 27 - Member functions and privacy](https://recordings.rna2.blindsidenetworks.com/senecacollege/f1b4cc38392954b179ed80e861823cbdb192d39e-1653655313749/capture/)
 - [June 1 - IO formatting and fool proof data entry (class canceled, watch recording from NFF)](https://recordings.rna2.blindsidenetworks.com/senecacollege/fa2e70d93458902e8c20d7c6ed16f63a6d8ad2d4-1654020794757/capture/)
+- [June 2 - Constructors, Destructors and this](https://youtu.be/P7SVGBgEhKc)
 ### NFF
 - [May 10, Welcome and Workshop Zero](https://recordings.rna2.blindsidenetworks.com/senecacollege/fa2e70d93458902e8c20d7c6ed16f63a6d8ad2d4-1652207698859/capture/)
 - [May 12 - OOP, Objects, Modular](https://recordings.rna2.blindsidenetworks.com/senecacollege/fa2e70d93458902e8c20d7c6ed16f63a6d8ad2d4-1652376592197/capture/)
@@ -45,6 +46,7 @@ I strongly suggest for students to review other section's recordings as well, if
 - [May 24 - DMA and scopes](https://recordings.rna2.blindsidenetworks.com/senecacollege/fa2e70d93458902e8c20d7c6ed16f63a6d8ad2d4-1653416406042/capture/)
 - [May 26 - Member functions and privacy](https://recordings.rna2.blindsidenetworks.com/senecacollege/fa2e70d93458902e8c20d7c6ed16f63a6d8ad2d4-1653586126080/capture/)
 - [May 31 - IO formatting and fool proof data entry](https://recordings.rna2.blindsidenetworks.com/senecacollege/fa2e70d93458902e8c20d7c6ed16f63a6d8ad2d4-1654020794757/capture/)
+- [June 02 - Constructors Destructors and this](https://youtu.be/wC91sOOeqq0)
 ### ZAA
 - [May 10, Welcome and Workshop Zero](https://recordings.rna2.blindsidenetworks.com/senecacollege/0dabe5cbd5afd3dadba550ee8fe20e329616e8f6-1652196588984/capture/)
 - [May 12 - OOP, Objects, Modular](https://recordings.rna2.blindsidenetworks.com/senecacollege/0dabe5cbd5afd3dadba550ee8fe20e329616e8f6-1652363284601/capture/)
