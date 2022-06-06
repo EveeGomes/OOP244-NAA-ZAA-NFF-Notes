@@ -4,22 +4,32 @@ Since the feedbacks are given on each workshop you will not lose any marks on th
 **Add this page to your "watched" pages on Github to receive notifications if any new feedback is issued.**
 
 ## List
+### Summer of 2022 Messages
+|Code|Problem|
+|---|----|
+|[CA](#ca) |  Custom header files must be included after library header files|
+|[CH](#ch) | C header file included in a C++ program |
+|[CSL](#csl)| Statically allocated cStrings need one extra character for null byte |
+|[CSGN](#bs) |  Bad header file safeguard define names| 
+|[DC](#dc) | Using #define statement instead of creating constant values |
+|[IN](#in) |  Sloppy formatting, bad or inconsistent indentation in the code  |
+|[MR](#mr)  |  Unnecessary multiple return statements or exit functions used|
+|[NL](#nl) |  Always set a pointer to null after the memory it is pointing to is deleted|
+|[SM](#sm) |  The code could have been written much shorter in length and simpler |
+|[STR](#str)| You are not allowed to use C++ string objects in OOP244 unless you are explicitly asked to do so |
+
+### Past Semesters' Messages
 |Code|Problem|
 |---|----|
 |[BK](#bk) |  Use of break or continue statements in a loop |
-|[CA](#ca) |  Custom header files must be included after library header files|
-|[CH](#ch) | C header file included in a C++ program |
 |[CM](#cm)  |  Unnecessary comments or Commented code left in the release version |
 |[CRT](#crt) |  `#define _CRT_SECURE_NO_WARNINGS` should be the first line in your .cpp file and never in a header file|
 |[CS2](#cs2)| Statically allocated cStrings (char arrays) are unnecessarily too big |
-|[CSL](#csl)| Statically allocated cStrings need one extra character for null byte |
 |[CSG](#sgs) |  Header file compilation safeguards must surround everything in the header file|
-|[CSGN](#bs) |  Bad header file safeguard define names| 
 [CTO](#cto)| Incorrect use of Conditional (Ternary) Operator (?:) |
 |[CT](#ct)|  Signature or citation missing |
 |[CV](#cv)|  Relative constant values should reside inside the namespace |
 |[DL](#dl) | Type of delete should match the allocation type |
-|[DC](#dc) | Using #define statement instead of creating constant values |
 |[DLIF](#dlif) | A pointer does not need to be checked for being null before deletion  |
 |[DMA](#dma) | Bad logic for dynamic memory allocation or resizing memory |
 |[DV](#dv) | Missing default value for the argument of a function |
@@ -28,19 +38,15 @@ Since the feedbacks are given on each workshop you will not lose any marks on th
 |[FRD](#frd)| Friend helper functions used instead of creating queries and calling them in the helper functions|
 |[HCODE](#hcode) |  Function implementation code in header file | 
 |[IH](#ih) |  Unneeded header file included in another header file| 
-|[IN](#in) |  Sloppy formatting, bad or inconsistent indentation in the code  |
 |[IOS](#ios)|  #include&lt;iotstream&gt; already includes &lt;ostream&gt; |
 |[LS](#ls) | Late Submission |
-|[MR](#mr)  |  Unnecessary multiple return statements or exit function used|
 |[MP](#mp) | The whole module is written is only with one or two functions |
 |[MVP](#mvp) | The member vairable prefix was used incorrectly |
-|[NL](#nl) |  Always set a pointer to null after the memory it is pointing to is deleted|
 |[NODMA](#nodma)| Statically allocated memory was used where dynamic memory allocation should have been used|
 |[RD](#rd) |  Unnecessary or redundant logic used in code. |
 |[RF](#rf) |  Insufficient or Empty reflection |
 |[RS](#rs) |  Research the behaviour of the functions used instead of assuming what they do |
 |[REUSE](#reuse) |  Reuse the code and logic that are already implemented in your functions |
-|[SM](#sm) |  The code could have been written much shorter in length and simpler |
 |[SPAM](#spam)|  Too many submissions |
 |[TL](#tl)| Use of library functions instead of the Tools provided |
 |[TN](#tn)| Compound Type definitions should reside inside the namespace|
@@ -69,7 +75,34 @@ Since the feedbacks are given on each workshop you will not lose any marks on th
 [Back to Feedback List](#list)
 ------------------------------------
 -->
-
+## STR
+You are not allowed to use C++ string objects in OOP244 unless you are explicitly asked to do so
+### Feedback
+### Problematic code sample
+```C++
+#include <string>
+.....
+if(birthdays[i].month==findmonth){
+   cout<<ind<<") ";
+   string s;  <<----------------------- not allowed
+   for(int j=1;j<(int)strlen(birthdays[i].justname);j++){
+       s += birthdays[i].justname[j];
+   }
+   cout<<s<<":"<<endl;
+   cout<<birthdays[i].year<<"-"<<birthdays[i].month<<"-"<<birthdays[i].date<<endl;
+   cout<<"===================================\n";
+   ind++;
+ }
+```
+### The Fix
+```C++
+// use Cstring as you did in IPC144
+#include <cstring>
+.....
+```
+------------------------------------
+[Back to Feedback List](#list)
+------------------------------------
 ## FRD
 ### Feedback 
 Friend helper functions used instead of using queries and calling them in the helper functions<br />
