@@ -7,6 +7,7 @@ Since the feedbacks are given on each workshop you will not lose any marks on th
 ### Summer of 2022 Messages
 |Code|Problem|
 |---|----|
+|[BK](#bk) |  Use of break or continue statements in a loop |
 |[CA](#ca) |  Custom header files must be included after library header files|
 |[CH](#ch) | C header file included in a C++ program |
 |[CSL](#csl)| Statically allocated cStrings need one extra character for null byte |
@@ -22,7 +23,6 @@ Since the feedbacks are given on each workshop you will not lose any marks on th
 ### Past Semesters' Messages
 |Code|Problem|
 |---|----|
-|[BK](#bk) |  Use of break or continue statements in a loop |
 |[CM](#cm)  |  Unnecessary comments or Commented code left in the release version |
 |[CRT](#crt) |  `#define _CRT_SECURE_NO_WARNINGS` should be the first line in your .cpp file and never in a header file|
 |[CS2](#cs2)| Statically allocated cStrings (char arrays) are unnecessarily too big |
