@@ -18,7 +18,7 @@ Since the feedbacks are given on each workshop you will not lose any marks on th
 |[NL](#nl) |  Always set a pointer to null after the memory it is pointing to is deleted|
 |[SM](#sm) |  The code could have been written much shorter in length and simpler |
 |[STR](#str)| You are not allowed to use C++ string objects in OOP244 unless you are explicitly asked to do so |
-
+|[SPAM](#spam)|  Too many submissions |
 ### Past Semesters' Messages
 |Code|Problem|
 |---|----|
@@ -48,7 +48,6 @@ Since the feedbacks are given on each workshop you will not lose any marks on th
 |[RF](#rf) |  Insufficient or Empty reflection |
 |[RS](#rs) |  Research the behaviour of the functions used instead of assuming what they do |
 |[REUSE](#reuse) |  Reuse the code and logic that are already implemented in your functions |
-|[SPAM](#spam)|  Too many submissions |
 |[STR](#str)|You are not allowed to use C++ string objects in OOP244 unless you are explicitly asked to do so|
 |[TL](#tl)| Use of library functions instead of the Tools provided |
 |[TN](#tn)| Compound Type definitions should reside inside the namespace|
