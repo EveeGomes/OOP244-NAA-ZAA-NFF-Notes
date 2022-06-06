@@ -42,6 +42,7 @@ Since the feedbacks are given on each workshop you will not lose any marks on th
 |[REUSE](#reuse) |  Reuse the code and logic that are already implemented in your functions |
 |[SM](#sm) |  The code could have been written much shorter in length and simpler |
 |[SPAM](#spam)|  Too many submissions |
+|[STR](#str)|You are not allowed to use C++ string objects in OOP244 unless you are explicitly asked to do so|
 |[TL](#tl)| Use of library functions instead of the Tools provided |
 |[TN](#tn)| Compound Type definitions should reside inside the namespace|
 |[TMP](#tmp) |  Unnecessary temporary variables used in the functions. |
@@ -69,7 +70,34 @@ Since the feedbacks are given on each workshop you will not lose any marks on th
 [Back to Feedback List](#list)
 ------------------------------------
 -->
-
+## STR
+You are not allowed to use C++ string objects in OOP244 unless you are explicitly asked to do so
+### Feedback
+### Problematic code sample
+```C++
+#include <string>
+.....
+if(birthdays[i].month==findmonth){
+   cout<<ind<<") ";
+   string s;  <<----------------------- not allowed
+   for(int j=1;j<(int)strlen(birthdays[i].justname);j++){
+       s += birthdays[i].justname[j];
+   }
+   cout<<s<<":"<<endl;
+   cout<<birthdays[i].year<<"-"<<birthdays[i].month<<"-"<<birthdays[i].date<<endl;
+   cout<<"===================================\n";
+   ind++;
+ }
+```
+### The Fix
+```C++
+// use Cstring as you did in IPC144
+#include <cstring>
+.....
+```
+------------------------------------
+[Back to Feedback List](#list)
+------------------------------------
 ## FRD
 ### Feedback 
 Friend helper functions used instead of using queries and calling them in the helper functions<br />
