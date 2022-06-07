@@ -18,8 +18,8 @@ Since the feedbacks are given on each workshop you will not lose any marks on th
 |[MR](#mr)  |  Unnecessary multiple return statements or exit functions used|
 |[NL](#nl) |  Always set a pointer to null after the memory it is pointing to is deleted|
 |[SM](#sm) |  The code could have been written much shorter in length and simpler |
-|[STR](#str)| You are not allowed to use C++ string objects in OOP244 unless you are explicitly asked to do so |
 |[SPAM](#spam)|  Too many submissions |
+|[STR](#str)| You are not allowed to use C++ string objects in OOP244 unless you are explicitly asked to do so |
 ### Past Semesters' Messages
 |Code|Problem|
 |---|----|
