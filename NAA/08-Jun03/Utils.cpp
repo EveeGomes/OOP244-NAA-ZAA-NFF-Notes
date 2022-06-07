@@ -12,9 +12,9 @@ namespace sdds {
       return len;
    }
 
-   void Utils::strcpy(char* des, const char* src){
+   void Utils::strcpy(char* des, const char* src, int len) {
       int i;
-      for (i = 0; src[i]; i++) {
+      for (i = 0; src[i] && (len < 0 || i < len ); i++) {
          des[i] = src[i];
       }
       des[i] = 0; // turning the char array des, to a cString by null terminating it.
