@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Company.cpp" />
+    <ClCompile Include="Container.cpp" />
     <ClCompile Include="Employee.cpp" />
     <ClCompile Include="Name.cpp" />
     <ClCompile Include="prg.cpp" />
@@ -147,9 +148,13 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Company.h" />
+    <ClInclude Include="Container.h" />
     <ClInclude Include="Employee.h" />
     <ClInclude Include="Name.h" />
     <ClInclude Include="Utils.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="operator.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

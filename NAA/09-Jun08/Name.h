@@ -9,6 +9,7 @@ namespace sdds {
       void setEmpty();
       void deallocate();
    public:
+      bool isEmpty()const;
       Name(); // default or no arg constructor
       Name(const char* value); // one argumet constructor
       Name(const char* title, const char* name);

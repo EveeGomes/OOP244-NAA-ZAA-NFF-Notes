@@ -4,20 +4,21 @@
 #include "Utils.h"
 using namespace std;
 namespace sdds {
+   Company::Company(){
+      open();
+   }
+   Company::Company(const char* name){
+      open(name);
+   }
+   Company::~Company(){
+      closeDown();
+   }
    void Company::open() {  // start the company (allocate)
-      char tempName[301];
       cout << "Enter Company Name" << endl << "> ";
-      cin.getline(tempName, 301, '\n');
-      open(tempName);
+      m_name.read();
    }
    void Company::open(const char* name){
-      if (name) {
-         m_name = new char[U.strlen(name) + 1];
-         U.strcpy(m_name, name);
-      }
-      else {
-         m_name = nullptr;
-      }
+      m_name.set(name);
       cout << "Number of employeess in ";
       displayName();
       cout << "> ";
@@ -31,15 +32,10 @@ namespace sdds {
    void Company::closeDown() {  // close down  (delete)
       cout << "closing down ";
       displayName();
-      for (int i = 0; i < m_no_of_employees; i++) {
-         //delete[] m_workers[i].m_name;  // name is not accessilbe, must be done through employees themselves
-         m_workers[i].deallocateName();
-      }
-      delete[] m_name;
-      m_name = nullptr;
       delete[] m_workers;
       m_workers = nullptr;
    }
+ 
    void Company::hire() {  //hires all the employees
       cout << "hiring for ";
       displayName();
@@ -76,11 +72,6 @@ namespace sdds {
       return m_no_of_employees;
    }
    void Company::displayName(){
-      if (m_name) {  // having safe empty state
-         cout << m_name << endl;
-      }
-      else {
-         cout << "No Name Company!" << endl;
-      }
+      m_name.display();
    }
 }

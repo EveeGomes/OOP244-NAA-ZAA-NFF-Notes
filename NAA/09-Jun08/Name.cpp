@@ -3,7 +3,9 @@
 #include "Utils.h"
 using namespace std;
 namespace sdds {
-
+   bool Name::isEmpty()const {
+      return m_value == nullptr;
+   }
    Name::Name() {
       //setEmpty(); redundant since m_value is initialzed to null in the class
    }

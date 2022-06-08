@@ -4,28 +4,27 @@
 using namespace std;
 namespace sdds {
 
-
    void Employee::hire() {
       read();
    }
-   void Employee::deallocateName(){
-      delete[] m_name;
-      m_name = nullptr;
-   }
-   void Employee::read() {  // hires only one
-      char name[301]{}; // automatic varable;
+
+   std::istream& Employee::read(std::istream& istr ) {  // hires only one
       cout << "Name: ";   
-      cin.getline(name,301); // no flush needed since \n is removed
-      m_name = new char[U.strlen(name) + 1];
-      U.strcpy(m_name, name);
+      m_name.read(istr);
       m_salary = U.getDouble("Salary: ");
       m_empId = U.getInt("ID: ");
+      return istr;
    }
-   void Employee::display() {
-      cout << "Name: " << m_name 
-           << "(" << m_empId 
-           << "), Salary: " << m_salary 
-           << endl;
+   std::ostream& Employee::display(std::ostream& ostr)const {
+      if (!m_name.isEmpty()) {
+         ostr << "Name: ";
+         m_name.display(ostr) << "(" << m_empId
+            << "), Salary: " << m_salary;
+      }
+      else {
+         ostr << "Empty Employee!";
+      }
+      return ostr;
    }
 
 
