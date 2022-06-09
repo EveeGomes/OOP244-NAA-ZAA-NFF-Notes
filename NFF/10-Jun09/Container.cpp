@@ -27,6 +27,16 @@ namespace sdds {
       operator=(m_volume + vol);
       return *this;
    }
+   Container& Container::operator++() {
+      *this = (volume() + 1);
+      return *this;
+   }
+   Container Container::operator++(int) {
+      Container ret = *this;
+      *this = (volume() + 1);
+      return ret;
+   }
+
    Container& Container::operator+=(Container& C){
       if (m_capcity - m_volume >= C.volume()) {
          operator=(m_volume + C.volume());
@@ -46,6 +56,10 @@ namespace sdds {
    }
    bool Container::isValid() const{
       return m_capcity > 0;
+   }
+   bool Container::operator!()const {
+      //return m_capcity <= 0;
+      return !isValid();
    }
    void Container::clear() {
       if (!isValid()) {
@@ -96,8 +110,11 @@ namespace sdds {
       return istr;
    }
    Container& Container::operator=(Container& C) {
-      *this = C.volume();
-      return *this;
+      return *this = C.volume();
+      
+   }
+   Container& Container::operator=(Container C){
+      return *this = C.volume();
    }
    Container& Container::operator-=(int vol) {
       if (volume() > vol) {
@@ -120,6 +137,17 @@ namespace sdds {
 
    std::istream& operator>>(std::istream& leftOper, Container& righOper) {
       return righOper.read(leftOper);
+   }
+
+   Container& operator--(Container& operand)   {
+      operand = (operand.volume() - 1);
+      return operand;
+   }
+
+   Container operator--(Container& operand, int)  {
+      Container ret = operand;
+      operand = (operand.volume() - 1);
+      return ret;
    }
 
 }

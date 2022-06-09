@@ -14,7 +14,7 @@ int main() {
    cout << "C," << C << endl;
    cout << "D," << D << endl;
    cout << "A," << A << endl << "-----------------------------" << endl;
-   A = D--; //  Container& Container::operator++();
+   A = D++; //  Container& Container::operator++();
    cout << "C," << C << endl;
    cout << "D," << D << endl;
    cout << "A," << A << endl << "-----------------------------" << endl;

@@ -46,3 +46,28 @@ Binary:
 Unary:
 typeA TA;
 typeB TB;
+
+TA = @TB;
+   Method:
+   typeA typeB::operator@();
+   TB is not changed
+      typeA typeB::operator@()const;
+   TA is not a copy
+      typeA& typeB::operator@()const;
+   TA is not a copy and will not change
+      const typeA& typeB::operator@()const;
+   HELPER:
+   typeA operator@(typeB B)
+   TB is changed
+      typeA operator@(type& B);
+   TB is not changed
+      typeA operator@(const type& B);
+   TA is not a copy
+      typeA& operator@(const type& B);
+   TA is not a copy and will not change
+      const typeA& operator@(const type& B);
+
+TA  = TB@;   // only for ++ and --
+   typeA typeB::operator@(int);// int only is a flag
+                         // to indicate that the oper
+                         // is a postfix one
