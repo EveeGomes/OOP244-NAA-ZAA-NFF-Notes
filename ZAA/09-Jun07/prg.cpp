@@ -2,25 +2,19 @@
 #include "Container.h"
 using namespace std;
 using namespace sdds;
+// << left shift 
 int main() {
-   Container A = 200.0, B{ 300.0, 150.0 } ,C;
-   A.display() << 'A' << endl;
-   B.display() << 'B' << endl << "------------------------" << endl;;
-   //A.operator+=(50);
-   A += 50;
-   A.display() << 'A' << endl;
-   B.display() << 'B' << endl << "------------------------" << endl;;
-   //B.operator+=(A);
-   B += A;
-   A.display() << 'A' << endl;
-   B.display() << 'B' << endl << "------------------------" << endl;;
-   A.operator+=(150);
-   A.display() << 'A' << endl;
-   B.display() << 'B' << endl << "------------------------" << endl;;
-   B.operator+=(A);
-   A.display() << 'A' << endl;
-   B.display() << 'B' << endl << "------------------------" << endl;;
-   C = sum(A, B);
-   C.display() << 'C' << endl << "------------------------" << endl;;
+   int i = 4, j;
+   Container A(200.0, 4.0), B;
+
+   j = i++;
+
+   cout << i << " " << j << endl;
+   // the output will be 5 and 4, because ++ happens after the statement
+  
+   B = A++;
+   cout << "A," << A << endl;
+   cout << "B," << B << endl << "------------------------" << endl;;
+
    return 0;
 }
