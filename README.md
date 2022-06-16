@@ -40,6 +40,7 @@ I strongly suggest for students to review other section's recordings as well, if
 - [June 3 - Constructors, Destructors and this](https://youtu.be/P7SVGBgEhKc)
 - [June 8 - Constructors, Destructors and this And Operator Overload Intro](https://youtu.be/bE_FUT0MUkQ)
 - [June 10 - Operator Overloading](https://recordings.rna2.blindsidenetworks.com/senecacollege/f1b4cc38392954b179ed80e861823cbdb192d39e-1654864360470/capture/)
+- [June 15 - Casting and index overload and rule of three](https://recordings.rna2.blindsidenetworks.com/senecacollege/f1b4cc38392954b179ed80e861823cbdb192d39e-1655323575902/capture/)
 ### NFF
 - [May 10, Welcome and Workshop Zero](https://recordings.rna2.blindsidenetworks.com/senecacollege/fa2e70d93458902e8c20d7c6ed16f63a6d8ad2d4-1652207698859/capture/)
 - [May 12 - OOP, Objects, Modular](https://recordings.rna2.blindsidenetworks.com/senecacollege/fa2e70d93458902e8c20d7c6ed16f63a6d8ad2d4-1652376592197/capture/)
