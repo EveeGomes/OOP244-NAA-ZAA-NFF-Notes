@@ -39,7 +39,7 @@ I strongly suggest for students to review other section's recordings as well, if
 - [May 27 - Member functions and privacy](https://recordings.rna2.blindsidenetworks.com/senecacollege/f1b4cc38392954b179ed80e861823cbdb192d39e-1653655313749/capture/)
 - [June 1 - IO formatting and fool proof data entry (class canceled, watch recording from NFF)](https://recordings.rna2.blindsidenetworks.com/senecacollege/fa2e70d93458902e8c20d7c6ed16f63a6d8ad2d4-1654020794757/capture/)
 - [June 3 - Constructors, Destructors and this](https://youtu.be/P7SVGBgEhKc)
-- [June 8 - Constructors, Destructors and this And Operator Overload Intro](https://recordings.rna2.blindsidenetworks.com/senecacollege/f1b4cc38392954b179ed80e861823cbdb192d39e-1654718818946/capture/)
+- [June 8 - Constructors, Destructors and this And Operator Overload Intro](https://youtu.be/bE_FUT0MUkQ)
 - [June 10 - Operator Overloading](https://recordings.rna2.blindsidenetworks.com/senecacollege/f1b4cc38392954b179ed80e861823cbdb192d39e-1654864360470/capture/)
 ### NFF
 - [May 10, Welcome and Workshop Zero](https://recordings.rna2.blindsidenetworks.com/senecacollege/fa2e70d93458902e8c20d7c6ed16f63a6d8ad2d4-1652207698859/capture/)
