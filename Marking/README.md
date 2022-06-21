@@ -12,6 +12,7 @@ Since the feedbacks are given on each workshop you will not lose any marks on th
 |[CH](#ch) | C header file included in a C++ program |
 |[CSL](#csl)| Statically allocated cStrings need one extra character for null byte |
 |[CSGN](#bs) |  Bad header file safeguard define names| 
+|[CT](#ct)|  Signature or citation missing |
 |[DC](#dc) | Using #define statement instead of creating constant values |
 |[IN](#in) |  Sloppy formatting, bad or inconsistent indentation in the code  |
 |[MD](#md)| Workshop 1 was created to practice breaking up a program into modules. You did all your functions in one module and left the rest empty. |
@@ -28,7 +29,6 @@ Since the feedbacks are given on each workshop you will not lose any marks on th
 |[CS2](#cs2)| Statically allocated cStrings (char arrays) are unnecessarily too big |
 |[CSG](#sgs) |  Header file compilation safeguards must surround everything in the header file|
 [CTO](#cto)| Incorrect use of Conditional (Ternary) Operator (?:) |
-|[CT](#ct)|  Signature or citation missing |
 |[CV](#cv)|  Relative constant values should reside inside the namespace |
 |[DL](#dl) | Type of delete should match the allocation type |
 |[DLIF](#dlif) | A pointer does not need to be checked for being null before deletion  |
