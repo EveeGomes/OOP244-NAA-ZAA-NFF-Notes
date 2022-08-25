@@ -34,24 +34,32 @@ Every memory is like a circle. For example a byte starts in 0 and goes up to 255
 Like we have 10 fingers that goes from 0 to 9. If we want a negative number, then we need to decide which thumb of which hand will be the negative number:
 so that's why negative numbers are 1 bigger than positive numbers. 
 
+
+-> types are like lables to the pieces of memory used in the program
 In C language we refer to a single byte as the type char:
 char = 8 bits : 0-255
-short  
-int    
-long   
-long long 
+short  = 16bits
+int    = (it'll depend on each system: size of standard int in your system -> 32, 64)
+long   = 64
+long long = 64
+-> these can always be checked
 
-
+-> there are only integers in computers!
+-> computers use integers in different ways to "simulate" floating point (real numbers)
+-> since they're too big, they are NOT precise! Then:
 // you should never test two real numbers (floating point) for equality
 float
 double
 long double
 
+For example, they can be these: they look like the same, but aren't!!!
 double a = 3;   2.999999999999999999999999999999999999
 double b = 3;   3.000000000000000000000000000000000001
 
 if( a == b){ false   
 }
+So, whenever we need to compare two floating points: check the difference and then see if that difference is smaller then a certain amout.
+Like: if the result of a - b is greater than 0.0001 and less than 0.0001, than they're equal (this is just an example! The precision changes according to your program!!!!!!) 
 
 // part of the language, (pre structured programming)
 // Do not use these
