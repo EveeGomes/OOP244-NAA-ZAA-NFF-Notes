@@ -2,10 +2,39 @@ c++ 1.cpp 2.cpp 3.cpp main.cpp -o exe
 c++ -o exe 2.cpp 1.cpp main.cpp 3.cpp 
 
 two programs are called:
-1- compiler (called 4 times separately)
-2- linker
+1- compiler (called 4 times separately) -> the modules aren't aware of each other's outcomes! That's why it's important to have header files and #include. Using include, the module only have access to the functions' signature, not the implementation!
+-> the result of compilation without any errors is an object file of each module.
 
+2- linker -> it'll check if the object files are working properly (like if a function called from another module is actually there or not). If everything is ok it'll create the executable file.
 
+"How many bits a byte is made of?"
+-> 8 bits (2 nibbles with 4 bits each)
+Each byte can store any one of 256 (2^8) possible values in the form of a bit string
+A byte is the smallest integer we can get in your computer. Starts from 0 and goes until 255 (or -128 to 127).
+
+1 bit: there're only 2 possible things to be shown: 0 or 1
+2 bits: 4 different things: 00, 01, 11, 10
+3 bits: we can show 8
+...
+and this goes until 256 things to be shown: 
+8 bits: 256 different positions/things to be shown
+
+"what is memory?"
+It's a linear sequence of bytes sitting in memory.
+Each byte inside the memory has a sequence. The sequence starts from 0 and goes until the size of the memory (ex 16GB - Gigabytes).
+The sequence number of each byte is called an address.
+
+For example, 4 Gigabytes of RAM, consists of 32 (= 4 * 8) Gigabits
+- starts at a low address of 0x00000000
+- ends at a high address of 0xFFFFFFFF
+
+"The address of some piece of memory is the sequence of byte in memory."
+
+Every memory is like a circle. For example a byte starts in 0 and goes up to 255, if we add 1 more then it won't become 256 but goes back to 0.
+Like we have 10 fingers that goes from 0 to 9. If we want a negative number, then we need to decide which thumb of which hand will be the negative number:
+so that's why negative numbers are 1 bigger than positive numbers. 
+
+In C language we refer to a single byte as the type char:
 char = 8 bits : 0-255
 short  
 int    
