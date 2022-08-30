@@ -11,7 +11,7 @@ int main() {
    //   printf("a is %d\n", a);
    //   counter++;
    //}
-   for (; a < b; counter++) {
+   for (; a < b; counter++) { // ; because counter is already = 0
       a += 1;
       printf("a is %d\n", a);
    }
@@ -30,11 +30,4 @@ while(condition){
 for(statement 1;condition;statement 2){
    body;
 }
-
-
-
-
-
-
-
 */
