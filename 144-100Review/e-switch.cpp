@@ -9,9 +9,9 @@ int getGrade() {
    return ch;
 }
 int toMark(char grade) {
-   int mark = -1;
+   int mark = -1;// so it can be invalid -> works as a default value (so in this case the switch won't need a default case)
    // one or no match
-   switch (grade) {
+   switch (grade) { // SWITCH CAN'T CHECK FOR RANGES; IT CHECKS EQUALITY
    case 'A':
    case 'a':
       mark = 90;
@@ -36,7 +36,7 @@ int toMark(char grade) {
    return mark;
 }
 int toMark(char grade) {
-   int mark;
+   int mark; // since it doesn't have a default value, add the default case
    // one match or else (default)
    switch (grade) {
    case 'A':
