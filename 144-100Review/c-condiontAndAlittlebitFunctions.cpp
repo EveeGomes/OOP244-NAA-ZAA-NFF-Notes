@@ -12,7 +12,7 @@ using namespace std;
 /*
 to evalute truth or falsehood
 assuming A and B are conditions
-A && B;  // true only if both are ture
+A && B;  // true only if both are true
 A || B;  // false only if both are fals;
 !A       // true if A is false
 */
