@@ -13,20 +13,20 @@ int main() {
         printf("a is %d\n", a);
      }*/
 
-   while (a < b) {
-      a += 1;
+   // while loop it's like an if statement that repeats!
+   while (a < b) { //while this condition is true, keep doing the following; however, we need something that will change the condition over each iteration otherwise we'll have an endless loop! 
+      a += 1; 
       printf("a is %d\n", a);
       counter++;
    }
    printf("loop repeated %d times\n", counter);
+   
    counter = 0;
-   while (a < b) {
+   while (a < b) { // this loop may never happen because a was increased in the last while loop (zero or many)
       a += 1;
       printf("a is %d\n", a);
       counter++;
    }
    printf("loop repeated %d times\n", counter);
-
-
    return 0;
 }
