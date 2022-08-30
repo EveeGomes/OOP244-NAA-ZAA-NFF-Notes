@@ -30,3 +30,17 @@ int main() {
 
    return 0;
 }
+
+// TO HAVE THE FOLLOWING, COMMENT THE MAIN ABOVE
+
+void getCoord(int* x, int* y){ //integer pointer x, integer pointer y
+   printf("Enter coordinates: ");
+   scanf("%d %d", x, y); //since x and y are pointers, no need to use & ("address of") in scanf.
+}
+
+int main(){
+   int X, Y;
+   getCoord(&X, &Y); // address of X, address of Y (since the parameters are pointers, we need to pass the addresses of the variables as argument)
+   printf("The coordinates are: %d, %d\n", X, Y);
+   return 0;
+}
