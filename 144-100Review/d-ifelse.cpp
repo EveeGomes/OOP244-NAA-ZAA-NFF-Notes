@@ -24,7 +24,7 @@ int getMark() {
 }
 char toGrade(int mark) {
    char g;
-   // one of many
+   // one of many (because of the else statement without a condition at line 43)
    if (mark <= 100 && mark >=80) {
       g = 'A';
    }
@@ -48,7 +48,7 @@ char toGrade(int mark) {
 
 //char toGrade(int mark) {
 //   char g = 'X';
-//   // one or none of many
+//   // one or none of many (without else at the end and with g already set to a value)
 //   if (mark <= 100 && mark >= 80) {
 //      g = 'A';
 //   }
