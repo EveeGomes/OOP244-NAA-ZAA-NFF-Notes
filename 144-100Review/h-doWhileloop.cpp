@@ -14,7 +14,7 @@ int main() {
    } while (a < b);
    printf("loop repeated %d times\n", counter);
    counter = 0;
-   do {   // do while loops repeat on or more
+   do {   // do while loops repeat one (at least once) or more
       a += 1;
       printf("a is %d\n", a);
       counter++;
